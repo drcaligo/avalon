@@ -1,0 +1,9 @@
+﻿<columns>
+  <column name="Element" type="Text" width="75" allowwrap="true" />
+  <column name="summary" type="Text" width="300" allowwrap="true" usetexteditor="true" />
+  <column name="ACT ONE" type="Text" width="300" allowwrap="true" usetexteditor="true" />
+  <column name="ACT TWO" type="Text" width="300" allowwrap="true" usetexteditor="true" />
+  <column name="ACT THREE" type="Text" width="300" allowwrap="true" usetexteditor="true" />
+  <column name="ACT FOUR" type="Text" width="300" allowwrap="true" usetexteditor="true" />
+  <column name="ACT FIVE" type="Text" width="300" allowwrap="true" usetexteditor="true" />
+</columns>
