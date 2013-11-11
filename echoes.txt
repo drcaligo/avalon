@@ -2811,3 +2811,4 @@ Ah, I am shamed to write such things, but still ... I am proud and right. This i
 <!-- TODO: a little more time on the ending - Nancy's suicide / death by drowning in the pond -->
 
 ---
+This seems to work okay. The text is a little slow to respond to me. I wonder if that's just cause its a big file, or if that's because my connection leaves something to be desired. lemme check into a smaller file. This might just be a necessary fact of life. I don't wanna work with these giant bitch files, do I ?
